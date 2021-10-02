@@ -4,8 +4,9 @@
   width: 75%;
   margin: 2.5rem auto;
 }
+
 body {
-  background: linear-gradient(to right, #fc5c7d, #6a82fb);
+  background: linear-gradient(to right, #1c589c, #d43518);
 }
 
 button {
@@ -27,4 +28,5 @@ input {
 .cross {
   padding-left: 1rem;
   cursor: pointer;
+  color: lightgreen;
 }
